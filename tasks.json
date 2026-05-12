@@ -1,0 +1,1 @@
+{"tasks": [{"id": 1, "description": "Learn Python", "completed": false}, {"id": 2, "description": "Build task tracker", "completed": true}, {"id": 3, "description": "Apply to internships", "completed": false}], "next_id": 4}
