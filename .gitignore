@@ -1,0 +1,8 @@
+__pycache__/
+   *.pyc
+   tasks.json
+   *.log
+   events.log
+   hello.txt
+   person.json
+   sample.txt
